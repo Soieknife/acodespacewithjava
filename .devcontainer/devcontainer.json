@@ -1,0 +1,13 @@
+{
+  "name": "Java 25 + Maven + Spring",
+  "image": "mcr.microsoft.com/devcontainers/java:1-25-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven",
+        "vmware.vscode-spring-boot"
+      ]
+    }
+  }
+}
